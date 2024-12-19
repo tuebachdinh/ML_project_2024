@@ -1,3 +1,4 @@
 # My Project
 
-[Read the detailed project description (PDF)](./final_report.pdf)
+[Download the report (PDF)](./final_report.pdf)
+
